@@ -13,4 +13,4 @@
 
 На занятии было дано второе домашнее задание, его материалы лежат в Homework2_Linear_models_and_Metrics.zip
 
-Запись занятия будет позже.
+Запись занятия: https://www.youtube.com/watch?v=nLexMEtckeQ&feature=youtu.be
